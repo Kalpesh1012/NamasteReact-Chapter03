@@ -4,7 +4,7 @@
 
 `        `JSX is a like a HTML, but it doesn’t mean that JSX is a HTML inside JavaScript. JSX makes it easier to write and add html in react.
 
-Example: const heading=<h1> heading1 </h1>.
+Example: const heading=  <h1> heading1 </h1>.
 
 **2) Superpowers of JSX?**
 
@@ -13,8 +13,8 @@ Example: const heading=<h1> heading1 </h1>.
 **3) {TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent>< /TitleComponent>}**
 
 - TitleComponent: It renders React Elements
-- <TitleComponent/>: Renders the React Functional Component
-- <TitleComponent></TitleComponent>: In this component we can write another component.
+- {<TitleComponent/>}: Renders the React Functional Component
+- {<TitleComponent></TitleComponent>}: In this component we can write another component.
 
 **4)Role Of “type” attribute in script tag? Which option can I use there?**
 
